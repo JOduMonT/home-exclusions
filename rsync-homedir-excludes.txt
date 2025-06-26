@@ -380,6 +380,7 @@ nohup.out
 
 # VS Codium
 .config/VSCodium/CachedExtensionVSIXs
+.vscodium-server
 
 # VirtualBox
 .config/VirtualBox/VBoxSVC.log*
